@@ -6,4 +6,3 @@ module.exports = {
     MAIL_USERNAME: process.env.MAIL_USERNAME,
     MAIL_PASSWORD: process.env.MAIL_PASSWORD,
 }
-jhjhkh
